@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "454291261976",
+    "project_id": "musicapp-41d26",
+    "storage_bucket": "musicapp-41d26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454291261976:android:afc5ed26db3b456651916d",
+        "android_client_info": {
+          "package_name": "hcmute.edu.vn.musicapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG1f0KoxPSihANMIDwZPU5XrjLd_DIifQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
